@@ -1,0 +1,13 @@
+https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/EC2_GetStarted.html
+
+https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/SSL-on-an-instance.html
+
+ng new ...
+ng serve ...
+npm i -6 @angular/cli
+npm i -6 nvm
+node -v
+npm i @material --save-dev => -D
+--save => -P
+npm start
+npm run copiar
