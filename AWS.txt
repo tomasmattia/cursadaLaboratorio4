@@ -1,3 +1,18 @@
+
+https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/EC2_GetStarted.html
+
+
+https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/SSL-on-an-instance.html
+
+ng new ...
+ng serve ...
+npm i -6 @angular/cli
+npm i -6 nvm
+node -v
+npm i @material --save-dev => -D
+--save => -P
+npm start
+=======
 https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/EC2_GetStarted.html
 
 https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/SSL-on-an-instance.html
@@ -10,4 +25,10 @@ node -v
 npm i @material --save-dev => -D
 --save => -P
 npm start
-npm run copiar
+ng add @angular/material
+ng add @ng-bootstrap/schematics
+ng g @angular/material:material-nav --name=??
+ng g @angular/material:material-dashboard --name=??
+ng g @angular/material:material-table --name=??
+ng g service servicios/data
+"targets" "architect" => angular.json
